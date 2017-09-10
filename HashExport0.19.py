@@ -52,7 +52,7 @@ import os
 from Tkinter import *
 from tkFileDialog import *
 from time import *
-import multiprocessing
+#import multiprocessing
 
 # import re
 # import zlib
