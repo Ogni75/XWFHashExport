@@ -25,9 +25,4 @@ To adjust XWFHashExport, edit the .py file. There are several adjustable variabl
 ### Remark
 
 This is is early version. I know some problems but I work on it.
-I'm not one of the best programmer so the code is need to be improved. ;)
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm not one of the best programmer so the code is need to be improved.
