@@ -93,7 +93,7 @@ STATISITIKFILE = "./statistik.log"  # path to statistikfile
 ###  debugging options ###
 ### real much data to write; follow up every file ###
 DEBUG = False
-DEBUGLOG = True
+DEBUGLOG = False
 DEBUGFILE = "./debug.log"  # path to debugfile
 
 ### textfields to localisation
