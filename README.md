@@ -1,13 +1,22 @@
 ## XWFHashExport
 
 This script is used only as an extension for X-Ways Forensics (32-bit).
-It calculates several different hashes for every marked file.
+It calculates several different hashes for every marked file. 
+
+Calculated hashes:
 
 - MD4
 - ED2K
 - MD5
 - SHA1
 - SHA256
+
+The hashset will stored in a csv or tsv file.
+
+## Adjustment
+
+To adjust XWFHashExport, edit the .py file. There are several adjustable variables in there.
+
 
 ### How to use
 
@@ -20,7 +29,9 @@ XWFHashExport using the three point field.
 Answer the question for additional filename and the hashset will be created
 
 
-To adjust XWFHashExport, edit the .py file. There are several adjustable variables in there.
+
+
+
 
 ### Remark
 
