@@ -13,7 +13,7 @@ Calculated hashes:
 
 The hashset will stored in a csv or tsv file.
 
-## Adjustment
+### Adjustment
 
 To adjust XWFHashExport, edit the .py file. There are several adjustable variables in there.
 
@@ -27,10 +27,6 @@ After marking some files in the volume snapshot, you could choose the python X-T
 XWFHashExport using the three point field. 
 
 Answer the question for additional filename and the hashset will be created
-
-
-
-
 
 
 ### Remark
