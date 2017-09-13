@@ -31,5 +31,5 @@ Answer the question for additional filename and the hashset will be created
 
 ### Remark
 
-This is is early version. I know some problems but I work on it.
-I'm not one of the best programmer so the code is need to be improved.
+This is an early version. I know some problems but I work on it.
+
