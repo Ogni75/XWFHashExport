@@ -172,7 +172,7 @@ def XT_Init(nVersion, nFlags, hMainWnd, lpReserved):
         print('X-Tension initialization')
         return
 
-    if not XTINITIALIZE:
+    if nFlags == 1:
 
         vbsEingabe()
 
