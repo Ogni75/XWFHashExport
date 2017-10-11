@@ -361,7 +361,7 @@ def ed2k(fileContent):
         while True:
 
             enddata += buffersize
-            x = f[startdata:enddata]
+            x = content[startdata:enddata]
 
             startdata += buffersize
 
@@ -375,7 +375,7 @@ def ed2k(fileContent):
         m.update(data)
         return m
 
-    filechunk = splitup(filecontent)
+    filechunk = splitup(fileContent)
     hashes = [md4_hash(data).digest() for data in filechunk]
     if len(hashes) == 1:
         return hashes[0].encode("hex")
