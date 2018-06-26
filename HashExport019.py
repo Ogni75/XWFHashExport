@@ -13,7 +13,6 @@ Germany
 
 Questions:  xtension@ilmirmal.de
 
-I know, I'm not the best programmer so the code is need to be improved.
 If you take changes or improvements, it would be nice to see it. Please send it to me...
 
 
