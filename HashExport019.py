@@ -97,7 +97,7 @@ DEBUGFILE = "./debug.log"  # path to debugfile
 
 ### textfields to localisation
 
-txt_about = "Hashwertexport fuer PIOS DB"
+txt_about = "Hashwertexport"
 txt_unknownevidence = "unbekanntes Asservat"
 txt_lastevidence = "vorheriges Asservat"
 txt_actualevidence = "Export aus Asservat"
@@ -107,8 +107,8 @@ txt_casenameshort = "Nivadisnummer zu kurz"
 txt_casenamelong = "Nivadisnummer zu lang"
 txt_casenamewrongchar = "Fehlerhafte Zeichen"
 txt_casenamenoentry = "Eingabe erforderlich"
-txt_caseentrylabel = "Hashwertexport fuer die KiPo DB der PIOS"
-txt_casenameentry = "Nivadisnummer"
+txt_caseentrylabel = "Hashwertexport"
+txt_casenameentry = "Vorgangsnummer"
 txt_seconds = "Sekunden"
 txt_minutes = "Minuten"
 txt_hours = "Stunden"
